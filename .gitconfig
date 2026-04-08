@@ -3,3 +3,5 @@
 	email = brotem321@gmail.com
 [status]
 	short = true
+[alias]
+	loog = log --all --graph --oneline -10
