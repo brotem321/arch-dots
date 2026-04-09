@@ -7,8 +7,8 @@
 
 PS1='[\u@\h \W]\$ '
 
-#Aliases
-alias dfgit='git --git-dir=$HOME/.dots.git/ --work-tree=$HOME'
+# Aliases
+alias dfgit='git --git-dir=$HOME/.dots.git --work-tree=$HOME'
 alias ls='ls --color=auto --group-directories-first'
 alias la='ls -A'
 alias grep='grep --color=auto'

@@ -9,11 +9,11 @@
 # this file! Make them if necessary, and only then run
 #     $ xdg-user-dirs-update
 # for the changes to take effect.
-XDG_DOCUMENTS_DIR="$HOME/doc/"
-XDG_DOWNLOAD_DIR="$HOME/dow/"
-XDG_DESKTOP_DIR="$HOME/other/desktop/"
-XDG_MUSIC_DIR="$HOME/other/music/"
-XDG_PICTURES_DIR="$HOME/other/pictures/"
-XDG_VIDEOS_DIR="$HOME/other/videos/"
-XDG_TEMPLATES_DIR="$HOME/other/templates/"
-XDG_PUBLICSHARE_DIR="$HOME/other/public/"
+XDG_DOCUMENTS_DIR="$HOME/doc"
+XDG_DOWNLOAD_DIR="$HOME/dow"
+XDG_DESKTOP_DIR="$HOME/other/desktop"
+XDG_MUSIC_DIR="$HOME/other/music"
+XDG_PICTURES_DIR="$HOME/other/pictures"
+XDG_VIDEOS_DIR="$HOME/other/videos"
+XDG_TEMPLATES_DIR="$HOME/other/templates"
+XDG_PUBLICSHARE_DIR="$HOME/other/public"
