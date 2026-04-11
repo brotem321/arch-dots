@@ -1,7 +1,13 @@
-# My standard directories
+# Standard directories
 bin
 doc
 dow
 other
 src
 tmp
+
+# Symlinks
+amme2000
+amme2500
+mech2400
+mtrx2700
