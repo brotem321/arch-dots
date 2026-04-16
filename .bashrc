@@ -27,7 +27,7 @@ function get_exit_code
 }
 
 PROMPT_COMMAND='exit_flag=$(get_exit_code); git_flag=$(get_git_branch)'
-PS1='\[\e[94m\]╭─(\[\e[93m\]\W\[\e[94m\])$git_flag$exit_flag\n\[\e[94m\]╰─ \[\e[96m\]\$\[\e[0m\] '
+PS1='\[\e[94m\]╭─(\[\e[93m\]\W\[\e[94m\])$git_flag$exit_flag\n\[\e[94m\]╰─ \[\e[96m\]\$\[\e[97m\] '
 
 # Simple prompt for tty
 if [ $TERM == 'linux' ]; then
